@@ -1,75 +1,46 @@
-### Hi there, I'm Fatin Ishraq  👋
+[](http://hits.dwyl.com/ishraqfatin7/ishraqfatin7)
+<img src="https://komarev.com/ghpvc/?username=ishraqfatin7">
 
+<h1 align="center">Hi there 👋, Fatin Ishraq is Here!</h1>
+<h3 align="center">Trying to become the Impossible One</h3>
 
+- 🔭 Fully Focused on Competitive Programming for now! Checkout My Solutions [Archive](https://github.com/ishraqfatin7/Online-Judge-Solves)
 
-## I'm a Developer, Writer and a CSE Undergrad!!
+- 🌱 I’m also **MERN** Developer && **Feature Writer**!
 
-- 🔭 These are my Git Projects: [Projects][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute to more development projects
-- ⚡ Fun fact: I love to read non-fiction and I'm Feature Writer!! 
+- 👨‍💻 All of my projects are available [here](https://github.com/ishraqfatin7?tab=repositories)
 
-### Spotify Playing 🎧
+- -/ Take a look at my writings[here](https://roar.media/bangla/author/fatin)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 💬 Ask me about **C,C++,Javascript,MERN,Data structures,Algorithm**
 
-### Connect with me:
+- 📫 How to reach me **ishraqfatin7@gmail.com**
 
-[<img align="left" alt="fatin-ishraq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="fatin-ishraq | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="fatin-ishraq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fatin-ishraq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="fatin-ishraq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📄 Take a look at my CV [here](https://drive.google.com/file/d/1_1LRuhS-AJAyEbMK5KOPdvlGYkJp1vIe/view?usp=sharing)
 
-<br />
+## Connect with me:
 
-### Languages and Tools:
+<p>
+<a href="https://codeforces.com/profile/ishraqfatin7" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/code-forces.svg" alt="https://codeforces.com/profile/ishraqfatin7" height="30" width="40" /></a>
+<a href="https://leetcode.com/ishraqfatin7/" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/leet-code.svg" alt="https://leetcode.com/ishraqfatin7/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ishraqfatin7?hr_r=1" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/hackerrank.svg" alt="https://www.hackerrank.com/ishraqfatin7?hr_r=1" height="30" width="40" /></a>
+<a href="https://toph.co/u/ishraqfatin7" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/toph.svg" alt="https://toph.co/u/Piru_72" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ishraqfatin7" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/codechef.svg" alt="https://www.codechef.com/users/ishraqfatin7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13925224/parvez-ahammed" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/stack-overflow.svg" alt="https://stackoverflow.com/users/13925224/parvez-ahammed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatin-ishraq/" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/linked-in.svg" alt="https://www.linkedin.com/in/fatin-ishraq/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fatinishraq01" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/facebook.svg" alt="https://www.facebook.com/ishraqfatin7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishraqfatin7/" target="blank"><img align="center" src="https://github.com/ishraqfatin7/ishraqfatin7/blob/main/images/instagram.svg" alt="https://www.instagram.com/ishraqfatin7/" height="30" width="40" /></a>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+</p>
 
-<br />
-<br />
+## Tools && Languages:
 
-### 📕 Head On To My Feature Articles on Roar Bangla
+<p align="left">
+</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </a> </p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Articles](https://roar.media/profile/Fatin/articles)
-<!-- BLOG-POST-LIST:END -->
+## Github Overview
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishraqfatin7&layout=compact)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1.  Uploaded a Full Stack Project) in [Complete MERN webSite](https://github.com/CreatorFI/Complete-Website-FISOFT-Solution-ClientSide)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <!-- <img align="left" alt="Ishraq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-
-</details>
-
-[website]: https://creatorfi.github.io/Portfolio-V2/
-[course]: https://github.com/CreatorFI?tab=repositories
-[twitter]:https://twitter.com/FatinIshraq01
-[facebook]: https://www.facebook.com/Fatin.Ishraq01/
-[instagram]: https://instagram.com/
-[linkedin]: https://www.linkedin.com/in/fatin-ishraq/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+![github stats](https://github-readme-stats.vercel.app/api?username=ishraqfatin7)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishraqfatin7&" alt="ishraqfatin7" />
