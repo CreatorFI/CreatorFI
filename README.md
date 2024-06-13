@@ -62,7 +62,7 @@
 
 | Platform   | Rating     | Max Rating | Profile Link                                               |
 |------------|------------|------------|------------------------------------------------------------|
-| Codeforces | Specialist | 1493       | [Link](https://codeforces.com/profile/ishraqfatin7)         |
+| Codeforces | Specialist | 1512       | [Link](https://codeforces.com/profile/ishraqfatin7)         |
 | Codechef   | 3 Star     | 1672       | [Link](https://www.codechef.com/users/ishraqfatin7)         |
 
 <h3 align="left">Problem-Solving:</h3>
